@@ -1,2 +1,0 @@
----
-ami_build: "'$ami' == 'yes'"
